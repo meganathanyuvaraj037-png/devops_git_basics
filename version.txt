@@ -1,1 +1,1 @@
-This is first version 1.0.0 while creating this file. will commit this and push
+This is first version 1.0.1 while creating this file. will commit this and push. This time I will create commit, stage, push, will create pull request in github and merge to main branch from version - 1.0.1 branch
